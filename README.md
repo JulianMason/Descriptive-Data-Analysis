@@ -1,5 +1,3 @@
-### README Summary for GitHub Repository
-
 # Descriptive Data Analysis Project
 
 ## Overview
