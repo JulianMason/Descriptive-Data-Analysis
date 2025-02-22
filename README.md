@@ -26,18 +26,7 @@ The analysis results are documented in the Final Report.pdf, including various s
 
 The project demonstrates the importance of descriptive statistics and visualizations in understanding and interpreting data. The methodologies applied ensure a thorough examination of the dataset, providing valuable insights.
 
-## Future Work
-
-Potential improvements and future work include:
-- Expanding the dataset for more comprehensive analysis.
-- Incorporating advanced statistical techniques.
-- Automating parts of the analysis for efficiency.
-
 ## Repository Contents
 
 - `killersandmotives.Rdata`: The dataset used for the analysis.
 - `Final Report.pdf`: Detailed report on the descriptive data analysis conducted.
-
----
-
-This summary provides an overview of the project's objectives, methodologies, and key findings, aimed at giving a layman a good understanding of the descriptive data analysis performed.
